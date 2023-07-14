@@ -49,6 +49,14 @@ This message is shown once a day. To disable it please create the
 tony@LAPTOP-NSESUJOJ:~$
 ```
 
+* Change to WSL2
+```bash
+PS C:\Windows\system32> wsl --set-default-version 2
+WSL 2와의 주요 차이점에 대한 자세한 내용은 https://aka.ms/wsl2를 참조하세요
+
+작업을 완료했습니다.
+```
+
 #### References
 * [윈도우 Docker 설치 완벽 가이드(Home 포함)](https://www.lainyzine.com/ko/article/a-complete-guide-to-how-to-install-docker-desktop-on-windows-10/)
 
