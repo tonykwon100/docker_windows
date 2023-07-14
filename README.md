@@ -57,7 +57,7 @@ WSL 2와의 주요 차이점에 대한 자세한 내용은 https://aka.ms/wsl2�
 작업을 완료했습니다.
 ```
 
-* Ubuntu install and running
+* install and running ubuntu
 ```bash
 PS C:\Users\tonyk> pull ubuntu:focal
 PS C:\Users\tonyk> docker images
